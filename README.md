@@ -2,4 +2,4 @@
 
 Hola soy tu amigo y docente digital Santiago Pellati, bienvenidos a mi curso.
 
-Agregando mas contenido al _README_
+Agregando mas contenido al _README.md_
